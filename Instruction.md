@@ -49,3 +49,7 @@ git commit -am "message"
 
     git log
 
+Для просмотра историю кратко необходимо воспользоваться командой:
+
+    git log --oneline
+    
